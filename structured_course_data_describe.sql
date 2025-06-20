@@ -6,3 +6,5 @@ select * from cycling.structured_course_data limit 10;
 
 --Get table's columns names
 PRAGMA table_info(structured_course_data);
+
+--This is Michael reviewing the pushed file
